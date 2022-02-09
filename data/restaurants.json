@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Jaskin RoBin",
+    "address": "Jalan Eco Hill No 5",
+    "cuisine": "Indian",
+    "website": "https://sadawad.com",
+    "description": "Recommended"
+  },
+  {
+    "name": "Kolar Bear",
+    "address": "Jalan Eco Hill No 6",
+    "cuisine": "Bear Mexican",
+    "website": "https://Test.com",
+    "description": "5/10 friendly waiter"
+  },
+  {
+    "name": "Tapakie",
+    "address": "Jalan Kesuma No 13",
+    "cuisine": "Japanese",
+    "website": "https://testnew.com",
+    "description": "Nice"
+  },
+  {
+    "name": "TeaLive",
+    "address": "Jalan Eco Hill Semenyih",
+    "cuisine": "Dessert",
+    "website": "https://TeaLivetest.com",
+    "description": "its nice recommended"
+  }
+]
